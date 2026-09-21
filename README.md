@@ -1,6 +1,6 @@
 # Drive App (Frontend)
 
-Web application for Cloud Drive file storage, role-based sharing, and user administration built with **React 19**, **Vite**, and **Material UI (MUI)**.
+Web application for Drive file storage, role-based sharing, and user administration**.
 
 ---
 
