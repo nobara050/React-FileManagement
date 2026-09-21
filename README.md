@@ -103,7 +103,7 @@ The backend seed provides ready-to-use testing accounts:
 
 ---
 
-## 📜 Available Scripts
+## Available Scripts
 
 - `npm run dev`: Starts the local development server with HMR.
 - `npm run build`: Compiles and bundles production-ready assets into `dist/`.
